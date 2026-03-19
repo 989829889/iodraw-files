@@ -4,44 +4,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qKRN4CpJzPQNVfTd4YU_-1" value="准入校验：&lt;br&gt;该供应商是否通过评审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qKRN4CpJzPQNVfTd4YU_-1" value="准入校验：&lt;br&gt;该供应商是否通过评审" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="80" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qKRN4CpJzPQNVfTd4YU_-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qKRN4CpJzPQNVfTd4YU_-7">
+        <mxCell id="qKRN4CpJzPQNVfTd4YU_-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="qKRN4CpJzPQNVfTd4YU_-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="140" as="sourcePoint" />
             <mxPoint x="320" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qKRN4CpJzPQNVfTd4YU_-6" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKRN4CpJzPQNVfTd4YU_-2">
+        <mxCell id="qKRN4CpJzPQNVfTd4YU_-6" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qKRN4CpJzPQNVfTd4YU_-2" vertex="1" connectable="0">
           <mxGeometry x="-0.0585" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qKRN4CpJzPQNVfTd4YU_-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qKRN4CpJzPQNVfTd4YU_-4">
+        <mxCell id="qKRN4CpJzPQNVfTd4YU_-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="qKRN4CpJzPQNVfTd4YU_-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="140" as="sourcePoint" />
             <mxPoint x="450" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qKRN4CpJzPQNVfTd4YU_-5" value="未通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKRN4CpJzPQNVfTd4YU_-3">
+        <mxCell id="qKRN4CpJzPQNVfTd4YU_-5" value="未通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qKRN4CpJzPQNVfTd4YU_-3" vertex="1" connectable="0">
           <mxGeometry x="0.0517" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qKRN4CpJzPQNVfTd4YU_-4" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qKRN4CpJzPQNVfTd4YU_-4" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qKRN4CpJzPQNVfTd4YU_-7" value="企微账号存在核验：&lt;br&gt;对比傲虎系统中企微供应商表和当前工厂资料中的供应商联系人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qKRN4CpJzPQNVfTd4YU_-7" value="企微账号存在核验：&lt;br&gt;对比傲虎系统中企微供应商表和当前工厂资料中的供应商联系人" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="180" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qKRN4CpJzPQNVfTd4YU_-9" value="处理新增联系人到OA，添加企微账号&lt;br&gt;处理已删除联系人同步到OA，进行停用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="290" width="220" height="60" as="geometry" />
+        <mxCell id="qKRN4CpJzPQNVfTd4YU_-9" value="处理新增联系人到OA，添加企微账号&lt;br&gt;处理已删除联系人同步到OA，进行停用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="300" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qKRN4CpJzPQNVfTd4YU_-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="qKRN4CpJzPQNVfTd4YU_-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="640" as="sourcePoint" />
-            <mxPoint x="440" y="590" as="targetPoint" />
+            <mxPoint x="279.5" y="240" as="sourcePoint" />
+            <mxPoint x="279.5" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

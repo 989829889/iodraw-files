@@ -35,7 +35,7 @@
         <mxCell id="qKRN4CpJzPQNVfTd4YU_-7" value="企微账号存在核验：&lt;br&gt;对比傲虎系统中企微供应商表和当前工厂资料中的供应商联系人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="180" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qKRN4CpJzPQNVfTd4YU_-9" value="处理新增联系人到 OA，添加企微账号&lt;br&gt;处理已删除联系人同步到 OA停用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qKRN4CpJzPQNVfTd4YU_-9" value="处理新增联系人到OA，添加企微账号&lt;br&gt;处理已删除联系人同步到OA，进行停用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="290" width="180" height="60" as="geometry" />
         </mxCell>
       </root>

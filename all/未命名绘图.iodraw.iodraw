@@ -71,7 +71,7 @@
             <mxPoint x="570" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KftPElT-Kh6xw_bJCHF6-8" value="未通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KftPElT-Kh6xw_bJCHF6-7">
+        <mxCell id="KftPElT-Kh6xw_bJCHF6-8" value="之前通过并导入了云链&lt;br&gt;后改为暂不合作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KftPElT-Kh6xw_bJCHF6-7">
           <mxGeometry x="0.0517" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

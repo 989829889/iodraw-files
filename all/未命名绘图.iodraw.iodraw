@@ -44,8 +44,8 @@
             <mxPoint x="279.5" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KftPElT-Kh6xw_bJCHF6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="KftPElT-Kh6xw_bJCHF6-1" value="上传至云链&lt;br&gt;新增 or 更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

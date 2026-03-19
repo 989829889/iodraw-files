@@ -13,7 +13,7 @@
             <mxPoint x="320" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qKRN4CpJzPQNVfTd4YU_-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKRN4CpJzPQNVfTd4YU_-2">
+        <mxCell id="qKRN4CpJzPQNVfTd4YU_-6" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qKRN4CpJzPQNVfTd4YU_-2">
           <mxGeometry x="-0.0585" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -31,6 +31,9 @@
         </mxCell>
         <mxCell id="qKRN4CpJzPQNVfTd4YU_-4" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qKRN4CpJzPQNVfTd4YU_-7" value="企微账号存在核验：&lt;br&gt;对比傲虎系统中企微供应商表和当前的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

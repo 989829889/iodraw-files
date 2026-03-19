@@ -24,7 +24,7 @@
             <mxPoint x="450" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qKRN4CpJzPQNVfTd4YU_-5" value="未通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qKRN4CpJzPQNVfTd4YU_-3" vertex="1" connectable="0">
+        <mxCell id="qKRN4CpJzPQNVfTd4YU_-5" value="未导入云链&lt;br&gt;未通评审过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qKRN4CpJzPQNVfTd4YU_-3" vertex="1" connectable="0">
           <mxGeometry x="0.0517" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

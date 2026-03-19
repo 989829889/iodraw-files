@@ -45,13 +45,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KftPElT-Kh6xw_bJCHF6-1" value="上传至云链&lt;br&gt;新增 or 更新&lt;br&gt;如果变成不合作，云链会隐藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="420" width="150" height="60" as="geometry" />
+          <mxGeometry x="190" y="420" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KftPElT-Kh6xw_bJCHF6-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="279.5" y="360" as="sourcePoint" />
             <mxPoint x="279.5" y="420" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KftPElT-Kh6xw_bJCHF6-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
